@@ -1,4 +1,4 @@
-import { dom } from './New.js';
+import { dom } from '../New.js';
 
 var cunt = 0;
 
